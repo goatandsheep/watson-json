@@ -1,5 +1,5 @@
 {
-  "name": "watson-json",
+  "name": "watson-speech-json",
   "version": "0.1.0",
   "description": "Watson Speech-to-text output to JSON",
   "main": "index.js",
